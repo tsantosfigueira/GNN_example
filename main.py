@@ -1,7 +1,7 @@
 from torch_geometric.datasets import KarateClub
 from torch_geometric.utils import to_networkx
 import networkx as nx
-import matplotlib.pyplot as plt 
+import matplotlib.pyplot as plt
 
 dataset = KarateClub()
 
